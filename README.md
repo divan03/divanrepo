@@ -85,5 +85,5 @@ pip install numpy matplotlib notebook
 
 ## 6. Contacts & Enseignants
 
-- **Étudiant :** [Votre Nom / Prénom]
+- **Étudiant :** Divan TEMA
 - **Enseignants référents :** Bruno Denis (`bruno2nis`), Kevin Godineau (`kevin-godineau`)
